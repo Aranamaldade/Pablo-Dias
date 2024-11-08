@@ -15,5 +15,6 @@
 .banner__pesquise{
     background-color: transparent;
     border: 1px sold white;
-    
+    color: white;
+    border-radius: 24px;
 }
