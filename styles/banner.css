@@ -10,4 +10,9 @@
 }
 .banner__texto{
     font-weight: 500;
+    margin: 1em 0;
+}
+.banner__pesquise{
+    background-color: transparent;
+    border: 1px sold white;
 }
